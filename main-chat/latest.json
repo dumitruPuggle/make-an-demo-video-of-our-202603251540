@@ -1,7 +1,7 @@
 {
   "sceneId": "main",
-  "revision": 10,
-  "lastEventOffset": 10,
+  "revision": 14,
+  "lastEventOffset": 14,
   "messages": [
     {
       "id": "user-1774446077809",
@@ -133,10 +133,55 @@
           "kind": "info"
         }
       }
+    },
+    {
+      "id": "assistant-status-1774446252180-chtrk8",
+      "role": "assistant",
+      "content": "✨ Composing timeline",
+      "timestamp": 1774446252180,
+      "metadata": {
+        "streamEvent": {
+          "type": "phase.start",
+          "phase": "validating",
+          "kind": "info"
+        }
+      }
+    },
+    {
+      "id": "assistant-status-1774446252180-rpfc8p",
+      "role": "assistant",
+      "content": "✨ Validating generated scenes...",
+      "timestamp": 1774446252180,
+      "metadata": {
+        "streamEvent": {
+          "type": "validation.result",
+          "phase": "validating",
+          "kind": "info"
+        }
+      }
+    },
+    {
+      "id": "assistant-status-1774446252180-nj7md2",
+      "role": "assistant",
+      "content": "✨ Scene 2 must include the transpiled showcase marker for transpile-first mode.",
+      "timestamp": 1774446252180,
+      "metadata": {
+        "streamEvent": {
+          "type": "error",
+          "kind": "error"
+        }
+      }
+    },
+    {
+      "id": "error-1774446252180",
+      "role": "error",
+      "content": "Scene 2 must include the transpiled showcase marker for transpile-first mode.",
+      "timestamp": 1774446252180,
+      "errorType": "api"
     }
   ],
   "appliedRequestIds": [
-    "https://github.com/dumitruPuggle/make-an-demo-video-of-our-202603251540.git::main:1774446118543:763f7c"
+    "https://github.com/dumitruPuggle/make-an-demo-video-of-our-202603251540.git::main:1774446252595:p3p36g"
   ],
-  "updatedAt": "2026-03-25T13:41:59.160Z"
+  "updatedAt": "2026-03-25T13:44:13.752Z"
 }
