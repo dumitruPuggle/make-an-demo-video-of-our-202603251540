@@ -1,0 +1,42 @@
+{
+  "projectName": "make-an-demo-video-of-our-202603251540",
+  "prompt": "Manual timeline update",
+  "summary": "Auto-saved scene timeline update",
+  "timestamp": 1774446254036,
+  "skills": [],
+  "attachedImageUrls": [
+    "https://raw.githubusercontent.com/dumitruPuggle/make-an-demo-video-of-our-202603251540/main/uploads/1774446034484-06296f5a/asset-1.png"
+  ],
+  "fontFamily": "Inter, sans-serif",
+  "format": "landscape",
+  "scenes": [
+    {
+      "id": "cfa3437b-9f46-4bd7-8bb6-363ac4502657",
+      "name": "Scene 1",
+      "durationInFrames": 240,
+      "createdAt": 1774446033216,
+      "updatedAt": 1774446077809
+    }
+  ],
+  "selectedSceneId": "cfa3437b-9f46-4bd7-8bb6-363ac4502657",
+  "selectedChatSceneId": "cfa3437b-9f46-4bd7-8bb6-363ac4502657",
+  "sceneCommitIndexById": {
+    "cfa3437b-9f46-4bd7-8bb6-363ac4502657": [
+      {
+        "snapshotId": "1774446254036-b93a1760",
+        "commitName": "generation: Auto-saved scene timeline update",
+        "summary": "Auto-saved scene timeline update",
+        "timestamp": 1774446254036,
+        "savedAtIso": "2026-03-25T13:44:15.596Z"
+      }
+    ]
+  },
+  "sceneChatsById": {
+    "cfa3437b-9f46-4bd7-8bb6-363ac4502657": []
+  },
+  "sceneFormatVersion": 2,
+  "snapshotId": "1774446254036-b93a1760",
+  "commitName": "generation: Auto-saved scene timeline update",
+  "assetPaths": [],
+  "savedAtIso": "2026-03-25T13:44:15.596Z"
+}
