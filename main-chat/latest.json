@@ -1,7 +1,7 @@
 {
   "sceneId": "main",
-  "revision": 2,
-  "lastEventOffset": 2,
+  "revision": 10,
+  "lastEventOffset": 10,
   "messages": [
     {
       "id": "user-1774446077809",
@@ -21,10 +21,122 @@
           "thumbnailUrl": "https://raw.githubusercontent.com/dumitruPuggle/make-an-demo-video-of-our-202603251540/main/uploads/1774446034484-06296f5a/asset-1.png"
         }
       ]
+    },
+    {
+      "id": "assistant-status-1774446078351-sc10f1",
+      "role": "assistant",
+      "content": "✨ Resolving scene context",
+      "timestamp": 1774446078351,
+      "metadata": {
+        "streamEvent": {
+          "type": "phase.start",
+          "phase": "generating",
+          "kind": "info"
+        }
+      }
+    },
+    {
+      "id": "assistant-status-1774446078739-p9fyyr",
+      "role": "assistant",
+      "content": "✨ Calling OpenAI generation",
+      "timestamp": 1774446078739,
+      "metadata": {
+        "streamEvent": {
+          "type": "phase.start",
+          "phase": "generating",
+          "kind": "info"
+        }
+      }
+    },
+    {
+      "id": "assistant-status-1774446078739-fmxmk4",
+      "role": "assistant",
+      "content": "✨ Planning scenes",
+      "timestamp": 1774446078739,
+      "metadata": {
+        "streamEvent": {
+          "type": "phase.start",
+          "phase": "planning",
+          "kind": "info"
+        }
+      }
+    },
+    {
+      "id": "assistant-status-1774446078739-7gmcc0",
+      "role": "assistant",
+      "content": "✨ Planning scenes...",
+      "timestamp": 1774446078739,
+      "metadata": {
+        "streamEvent": {
+          "type": "phase.start",
+          "phase": "generating",
+          "kind": "info"
+        }
+      }
+    },
+    {
+      "id": "assistant-status-1774446118137-36usef",
+      "role": "assistant",
+      "content": "✨ Generating scene 1/2...",
+      "timestamp": 1774446118137,
+      "metadata": {
+        "streamEvent": {
+          "type": "scene.start",
+          "phase": "generating",
+          "kind": "info",
+          "progress": {
+            "current": 1,
+            "total": 2
+          }
+        }
+      }
+    },
+    {
+      "id": "assistant-status-1774446118137-hel2fh",
+      "role": "assistant",
+      "content": "✨ Generating scene...",
+      "timestamp": 1774446118137,
+      "metadata": {
+        "streamEvent": {
+          "type": "phase.start",
+          "phase": "generating",
+          "kind": "info"
+        }
+      }
+    },
+    {
+      "id": "assistant-status-1774446118137-sa7q2x",
+      "role": "assistant",
+      "content": "✨ Generating scene 2/2...",
+      "timestamp": 1774446118137,
+      "metadata": {
+        "streamEvent": {
+          "type": "scene.start",
+          "phase": "generating",
+          "kind": "info",
+          "progress": {
+            "current": 2,
+            "total": 2
+          }
+        }
+      }
+    },
+    {
+      "id": "assistant-status-1774446118137-jf6e97",
+      "role": "assistant",
+      "content": "✨ Generating scene...",
+      "timestamp": 1774446118137,
+      "metadata": {
+        "streamEvent": {
+          "type": "phase.start",
+          "phase": "generating",
+          "kind": "info"
+        }
+      }
     }
   ],
   "appliedRequestIds": [
-    "https://github.com/dumitruPuggle/make-an-demo-video-of-our-202603251540.git::main:1774446078248:45blua"
+    "https://github.com/dumitruPuggle/make-an-demo-video-of-our-202603251540.git::main:1774446118543:763f7c"
   ],
-  "updatedAt": "2026-03-25T13:41:19.087Z"
+  "updatedAt": "2026-03-25T13:41:59.160Z"
 }
