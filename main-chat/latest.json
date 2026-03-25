@@ -1,7 +1,7 @@
 {
   "sceneId": "main",
-  "revision": 20,
-  "lastEventOffset": 20,
+  "revision": 23,
+  "lastEventOffset": 23,
   "messages": [
     {
       "id": "user-1774446077809",
@@ -260,10 +260,49 @@
           "kind": "info"
         }
       }
+    },
+    {
+      "id": "assistant-status-1774446357592-pxn17y",
+      "role": "assistant",
+      "content": "✨ Composing timeline",
+      "timestamp": 1774446357592,
+      "metadata": {
+        "streamEvent": {
+          "type": "phase.start",
+          "phase": "validating",
+          "kind": "info"
+        }
+      }
+    },
+    {
+      "id": "assistant-status-1774446357592-q7s3hn",
+      "role": "assistant",
+      "content": "✨ Validating generated scenes...",
+      "timestamp": 1774446357592,
+      "metadata": {
+        "streamEvent": {
+          "type": "validation.result",
+          "phase": "validating",
+          "kind": "info"
+        }
+      }
+    },
+    {
+      "id": "assistant-status-1774446357592-d4zip6",
+      "role": "assistant",
+      "content": "✨ Saving snapshot...",
+      "timestamp": 1774446357592,
+      "metadata": {
+        "streamEvent": {
+          "type": "persist.start",
+          "phase": "persisting",
+          "kind": "info"
+        }
+      }
     }
   ],
   "appliedRequestIds": [
-    "https://github.com/dumitruPuggle/make-an-demo-video-of-our-202603251540.git::main:1774446266082:q1zj5y"
+    "https://github.com/dumitruPuggle/make-an-demo-video-of-our-202603251540.git::main:1774446357999:ucmyp9"
   ],
-  "updatedAt": "2026-03-25T13:44:27.189Z"
+  "updatedAt": "2026-03-25T13:46:02.349Z"
 }
