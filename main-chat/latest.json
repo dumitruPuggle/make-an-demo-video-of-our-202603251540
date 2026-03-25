@@ -1,7 +1,7 @@
 {
   "sceneId": "main",
-  "revision": 25,
-  "lastEventOffset": 25,
+  "revision": 26,
+  "lastEventOffset": 26,
   "messages": [
     {
       "id": "user-1774446077809",
@@ -489,10 +489,17 @@
         },
         "checkpointCommitName": "generation: Generated a 1-scene timeline through two-phase orchestration."
       }
+    },
+    {
+      "id": "error-1774446618875",
+      "role": "error",
+      "content": "unauthenticated: Authentication is required.",
+      "timestamp": 1774446618875,
+      "errorType": "api"
     }
   ],
   "appliedRequestIds": [
-    "https://github.com/dumitruPuggle/make-an-demo-video-of-our-202603251540.git::main:1774446598019:yhaxuv"
+    "https://github.com/dumitruPuggle/make-an-demo-video-of-our-202603251540.git::main:1774446623363:4l2gv3"
   ],
-  "updatedAt": "2026-03-25T13:49:59.307Z"
+  "updatedAt": "2026-03-25T13:50:24.690Z"
 }
